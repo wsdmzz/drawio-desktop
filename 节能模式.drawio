@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T10:15:19.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="F10eM9vl4gyPgzlPQmJr" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T12:23:26.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KnlfswfyVgfoFVnOpmui" version="22.1.16" type="github">
   <diagram name="第 1 页" id="y4MLylSLRwy-ajHNfm4o">
     <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="5llyP0SeZ6Wndcgpn9Bf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-4" target="5llyP0SeZ6Wndcgpn9Bf-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-4" value="开启计时超时退出节能&lt;br&gt;根据type信息关闭开启雷达pir摄像机&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-4" value="开启计时超时退出节能&lt;br&gt;保存当前状态&lt;br&gt;根据type信息关闭开启雷达pir摄像机&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="16" width="120" height="108" as="geometry" />
         </mxCell>
         <mxCell id="5llyP0SeZ6Wndcgpn9Bf-6" value="开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
