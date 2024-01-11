@@ -1,41 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T12:23:26.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KnlfswfyVgfoFVnOpmui" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T03:20:37.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="BmYwWUIlE86Faz-eUtPQ" version="22.1.17" type="github">
   <diagram name="第 1 页" id="y4MLylSLRwy-ajHNfm4o">
     <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-1" target="5llyP0SeZ6Wndcgpn9Bf-2">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-1" target="5llyP0SeZ6Wndcgpn9Bf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-1" value="节能模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-1" value="节能模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-2" target="5llyP0SeZ6Wndcgpn9Bf-4">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-2" target="5llyP0SeZ6Wndcgpn9Bf-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-2" target="5llyP0SeZ6Wndcgpn9Bf-7">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-2" target="5llyP0SeZ6Wndcgpn9Bf-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-2" value="开/关" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-2" value="开/关" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-4" target="5llyP0SeZ6Wndcgpn9Bf-10">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5llyP0SeZ6Wndcgpn9Bf-4" target="5llyP0SeZ6Wndcgpn9Bf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-4" value="开启计时超时退出节能&lt;br&gt;保存当前状态&lt;br&gt;根据type信息关闭开启雷达pir摄像机&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-4" value="开启计时超时退出节能&lt;br&gt;保存当前状态&lt;br&gt;根据type信息关闭开启雷达pir摄像机&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="16" width="120" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-6" value="开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-6" value="开" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="40" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-7" value="关闭节能模式&lt;br&gt;恢复pir雷达状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-7" value="关闭节能模式&lt;br&gt;恢复pir雷达状态" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-9" value="关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-9" value="关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="128" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-10" value="关闭摄像机&lt;br&gt;过滤DSP唤醒" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="5llyP0SeZ6Wndcgpn9Bf-10" value="关闭摄像机&lt;br&gt;过滤DSP唤醒" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ooIHEw7SAvZU0rbdZR-U-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ooIHEw7SAvZU0rbdZR-U-3" target="5llyP0SeZ6Wndcgpn9Bf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooIHEw7SAvZU0rbdZR-U-3" value="&lt;ul&gt;&lt;li&gt;报警不唤醒DSP&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=default;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;opacity=70;perimeterSpacing=5;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="25" y="140" width="150" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
