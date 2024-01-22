@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T04:03:15.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.18" etag="tHZr-Wszskxca2y4KiZu" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T07:29:21.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HE06oCNiRoWKD4n9QyiN" version="22.1.18" type="github">
   <diagram name="第 1 页" id="1Y9O2WtxgRachSAcQuBV">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-1" target="sTiSS1UaKypqrfC5kxAG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-1" target="sTiSS1UaKypqrfC5kxAG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-1" value="上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-4" target="sTiSS1UaKypqrfC5kxAG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-4" target="sTiSS1UaKypqrfC5kxAG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-4" value="USB插入" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-6" target="sTiSS1UaKypqrfC5kxAG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-6" target="sTiSS1UaKypqrfC5kxAG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-6" value="是否满电" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-8" value="蓝灯常亮" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-10" value="蓝色呼吸灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-12" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-14" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-17" value="销毁蓝灯呼吸" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-19" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-20" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-23" target="sTiSS1UaKypqrfC5kxAG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-23" target="sTiSS1UaKypqrfC5kxAG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-23" value="DSP状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-25" value="休眠&lt;br&gt;销毁红灯呼吸" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-27" target="sTiSS1UaKypqrfC5kxAG-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sTiSS1UaKypqrfC5kxAG-27" target="sTiSS1UaKypqrfC5kxAG-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-27" value="唤醒&lt;br&gt;蓝灯呼吸(未充电电量&amp;gt;10)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-29" value="电量&amp;lt;=10%&lt;br&gt;红灯呼吸" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTiSS1UaKypqrfC5kxAG-31" value="控制权交由主控" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
