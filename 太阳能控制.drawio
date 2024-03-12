@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T06:37:22.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.2" etag="q4cIhjSWpN0s0AwKGGkL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T12:51:01.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="4HFgVQJiX-vBqIMdTBTC" version="24.0.2" type="github">
   <diagram name="第 1 页" id="ewJm12hQBzFV8EKIYZHW">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-1" target="0tFyx06Dr_PiC4iaMlQX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-1" value="唤醒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-2" target="0tFyx06Dr_PiC4iaMlQX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-2" target="0tFyx06Dr_PiC4iaMlQX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-2" value="是否是8点" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-4" target="0tFyx06Dr_PiC4iaMlQX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-4" value="创建30分钟定时器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-6" target="0tFyx06Dr_PiC4iaMlQX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-6" value="给mcu消息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-8" value="mcu回复的消息上传到基站" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-10" target="0tFyx06Dr_PiC4iaMlQX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-10" value="等到8点&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-12" target="0tFyx06Dr_PiC4iaMlQX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-12" value="是否是18点" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-14" value="删除定时器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tFyx06Dr_PiC4iaMlQX-16" target="0tFyx06Dr_PiC4iaMlQX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tFyx06Dr_PiC4iaMlQX-16" value="30分钟到了" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
